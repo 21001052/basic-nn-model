@@ -46,9 +46,9 @@ Plot the performance plot
 Evaluate the model with the testing data.
 
 ## PROGRAM
- Name: G.Lutheesh
+ Name: V THAMARAISELVAN 
  
- Register Number: 212221230029
+ Register Number: 212221230115
 ```python
 
 from google.colab import auth
